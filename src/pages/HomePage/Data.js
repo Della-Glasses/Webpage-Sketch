@@ -4,13 +4,13 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'Della\'s smart glasses',
+  headline: 'A Game Changer Smart Glasses',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
+    'See what make us different.',
   buttonLabel: 'Get Started',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
+  img: require('../../images/svg-5.svg'),
   alt: 'Credit Card',
   start: ''
 };
@@ -24,7 +24,7 @@ export const homeObjTwo = {
   topLine: 'Instant Setup',
   headline: 'Extremely quick onboarding process',
   description:
-    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
+    "Della is an initiative dedicated to the development and manufacture of customizable smart glasses, which as a platform intends to support activities of daily life and business.",
   buttonLabel: 'Learn More',
   imgStart: '',
   img: require('../../images/svg-2.svg'),
@@ -38,14 +38,14 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Sarah Jeni',
+  topLine: 'Della develops and manufactures',
   headline:
-    'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+    'Customizable smart glasses',
   description:
     "Their team is wonderful! I can't believe I didn't start working with them earlier.",
   buttonLabel: 'View Case Study',
   imgStart: 'start',
-  img: require('../../images/profile.jpg'),
+  img: require('../../images/svg-6.svg'),
   alt: 'Vault',
   start: 'true'
 };

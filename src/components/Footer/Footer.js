@@ -1,7 +1,7 @@
-                                                  import React from 'react';
+import React from 'react';
 import { Button } from '../../globalStyles';
 import {
-  FaFacebook,
+  FaGithub,
   FaInstagram,
   FaYoutube,
   FaTwitter,
@@ -70,7 +70,7 @@ function Footer() {
           <FooterLinkItems>
             <FooterLinkTitle>Social Media</FooterLinkTitle>
             <FooterLink to='/'>Instagram</FooterLink>
-            <FooterLink to='/'>Facebook</FooterLink>
+            <FooterLink to='https://github.com/Della-Glasses'>GitHub</FooterLink>
             <FooterLink to='/'>Youtube</FooterLink>
             <FooterLink to='/'>Twitter</FooterLink>
           </FooterLinkItems>
@@ -80,19 +80,19 @@ function Footer() {
         <SocialMediaWrap>
           <SocialLogo to='/'>
             <SocialIcon />
-            ULTRA
+            | Della
           </SocialLogo>
-          <WebsiteRights>ULTRA © 2020</WebsiteRights>
+          <WebsiteRights>Della © 2020</WebsiteRights>
           <SocialIcons>
-            <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
-              <FaFacebook />
+            <SocialIconLink href='https://github.com/Della-Glasses' target='_blank' aria-label='GitHub'>
+              <FaGithub />
             </SocialIconLink>
             <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
               <FaInstagram />
             </SocialIconLink>
             <SocialIconLink
               href={
-                '//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber'
+                '//www.youtube.com/channel/UCyuYHymUH4Adj2YytTdtD4g'
               }
               rel='noopener noreferrer'
               target='_blank'
