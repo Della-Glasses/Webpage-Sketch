@@ -1,55 +1,27 @@
-export const homeObjOne = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: 'Exclusive Access',
-  headline: 'Unlimited Transactions with zero fees',
-  description:
-    'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
-  buttonLabel: 'Get Started',
-  imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card'
-};
-
-export const homeObjTwo = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: '100% Secure',
-  headline: 'Stay protected 24/7 anywhere anytime',
-  description:
-    'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
-  buttonLabel: 'Learn More',
-  imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
-};
-
-export const homeObjThree = {
+export const servicesObjOne = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Easy Setup',
-  headline: 'Super fast and simple onboarding process',
+  topLine: 'What are credits?',
+  headline: 'Credits are Exchageable Coins for Features',
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
-  imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+    'Credits are Della\'s coins that you can exchange for FEATURES that can be used in the smart glasses or participate on monthly EVENTS.',
+  buttonLabel: 'Get Started',
+  imgStart: '',
+  img: require('../../images/svg-2.svg'),
+  alt: 'Credit Card'
 };
 
-export const homeObjFour = {
+export const servicesObjTwo = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Data Analytics',
-  headline: 'Every transaction is stored on our secure cloud database',
+  topLine: 'Are you a company?',
+  headline: 'Do You Want to Be an Event Sponsor?',
   description:
-    'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-  buttonLabel: 'Sign Up Now',
+    "Contact us to discuss and plan about a series of activities to promote your products and services for the Dellas's users in a FUN way.",
+  buttonLabel: 'Contact Us',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
+  img: require('../../images/svg-9.svg'),
   alt: 'Vault'
 };

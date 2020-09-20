@@ -30,44 +30,50 @@ function Pricing() {
                 <PricingCardIcon>
                   <GiRock />
                 </PricingCardIcon>
-                <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
+                <PricingCardPlan>Free Pack</PricingCardPlan>
+                <PricingCardCost>$0.00</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>100 New Users</PricingCardFeature>
-                  <PricingCardFeature>$10,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Retargeting analytics</PricingCardFeature>
+                  <PricingCardFeature>1GB of Cloud Storage</PricingCardFeature>
+                  <PricingCardFeature>3 credits every month</PricingCardFeature>
+                  <PricingCardFeature>Automatic Updates</PricingCardFeature>
+                  <PricingCardFeature>Profile badges</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
             </PricingCard>
+        
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiCrystalBars />
                 </PricingCardIcon>
-                <PricingCardPlan>Gold Rush</PricingCardPlan>
-                <PricingCardCost>$299.99</PricingCardCost>
+                <PricingCardPlan>Basic</PricingCardPlan>
+                <PricingCardCost>$5.99</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>1000 New Users</PricingCardFeature>
-                  <PricingCardFeature>$50,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Lead Gen Analytics</PricingCardFeature>
+                  <PricingCardFeature>30GB of Cloud Storage</PricingCardFeature>
+                  <PricingCardFeature>10 credits</PricingCardFeature>
+                  <PricingCardFeature>Free pack perks</PricingCardFeature>
+                  <PricingCardFeature>Settings Backup</PricingCardFeature>
+                  <PricingCardFeature>Custom Profile</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
               </PricingCardInfo>
             </PricingCard>
+
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiCutDiamond />
                 </PricingCardIcon>
-                <PricingCardPlan>Diamond Kings</PricingCardPlan>
-                <PricingCardCost>$999.99</PricingCardCost>
+                <PricingCardPlan>Premium pack</PricingCardPlan>
+                <PricingCardCost>$19.99</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited Users</PricingCardFeature>
-                  <PricingCardFeature>Unlimited Budget</PricingCardFeature>
+                  <PricingCardFeature>100GB of Cloud Storage</PricingCardFeature>
+                  <PricingCardFeature>Unlimited credits</PricingCardFeature>
+                  <PricingCardFeature>Basic pack perks</PricingCardFeature>
                   <PricingCardFeature>24/7 Support</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>

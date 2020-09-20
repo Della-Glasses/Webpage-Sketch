@@ -21,13 +21,13 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Instant Setup',
-  headline: 'Extremely quick onboarding process',
+  topLine: 'Our Vision',
+  headline: 'Make Shocking Services and Products',
   description:
-    "Della is an initiative dedicated to the development and manufacture of customizable smart glasses, which as a platform intends to support activities of daily life and business.",
+    "We will make our products and services impact by improving and facilitating the lives of our clients through our competitiveness, innovation and customization, thus becoming a STANDARD. Achieving high satisfaction and good service to our customers.",
   buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-2.svg'),
+  img: require('../../images/svg-7.svg'),
   alt: 'Vault',
   start: ''
 };
@@ -42,7 +42,7 @@ export const homeObjThree = {
   headline:
     'Customizable smart glasses',
   description:
-    "Their team is wonderful! I can't believe I didn't start working with them earlier.",
+    "Della is an initiative dedicated to the development and manufacture of customizable smart glasses, which as a platform intends to support activities of daily life and business.",
   buttonLabel: 'View Case Study',
   imgStart: 'start',
   img: require('../../images/svg-6.svg'),
@@ -56,10 +56,10 @@ export const homeObjFour = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Secure Database',
-  headline: 'All your data is stored on our secure server',
+  topLine: 'All your data is stored on our servers',
+  headline: 'Get Your Files Everywhere',
   description:
-    'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
+    'We store the files you want to add to our cloud service, thus you can access them from your computer or your phone.',
   buttonLabel: 'Sign Up Now',
   imgStart: 'start',
   img: require('../../images/svg-3.svg'),
