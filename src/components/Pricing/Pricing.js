@@ -49,7 +49,7 @@ function Pricing() {
                   <GiCrystalBars />
                 </PricingCardIcon>
                 <PricingCardPlan>Basic</PricingCardPlan>
-                <PricingCardCost>$5.99</PricingCardCost>
+                <PricingCardCost>$12.99</PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
                   <PricingCardFeature>30GB of Cloud Storage</PricingCardFeature>

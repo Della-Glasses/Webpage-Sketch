@@ -6,7 +6,7 @@ export const PricingSection = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: #4b59f7;
+  background: #4447E2;
 `;
 
 export const PricingWrapper = styled.div`
@@ -44,8 +44,8 @@ export const PricingContainer = styled.div`
 `;
 
 export const PricingCard = styled(Link)`
-  background: #242424;
-  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.2);
+  background: #131419;
+  box-shadow: 0 6px 20px #101522;
   width: 280px;
   height: 500px;
   text-decoration: none;
@@ -58,7 +58,7 @@ export const PricingCard = styled(Link)`
   &:hover {
     transform: scale(1.06);
     transition: all 0.3s ease-out;
-    color: #1c2237;
+    color: #131419;
   }
 
   @media screen and (max-width: 960px) {
